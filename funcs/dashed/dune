@@ -1,0 +1,3 @@
+(executable
+ (name dashed)
+ (libraries base core stdio))

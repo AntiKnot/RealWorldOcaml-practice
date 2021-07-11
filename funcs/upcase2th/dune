@@ -1,0 +1,4 @@
+(executable
+ (name upcase2th)
+ (libraries core)
+ )
