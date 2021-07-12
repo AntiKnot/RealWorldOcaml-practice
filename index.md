@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Real World Ocaml Practice
 
-You can use the [editor on GitHub](https://github.com/Eurusan/RealWorldOcaml-practice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## attention
+Note and Practice articles are shorthand and personal superficial understanding. Chinese and English are mixed for convenience. The correctness of the content is not guaranteed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Note 和 Practice 类文章是速记和个人粗浅理解。为了方便混杂了中英文.不保证内容的正确性.
 
-### Markdown
+## ref
+https://dev.realworldocaml.org/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eurusan/RealWorldOcaml-practice/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
