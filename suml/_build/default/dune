@@ -1,0 +1,3 @@
+(executable
+ (name suml)
+ (libraries core core_bench base))

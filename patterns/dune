@@ -1,0 +1,3 @@
+(executable
+ (name plus1)
+ (libraries core base core_bench))
